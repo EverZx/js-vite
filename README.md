@@ -1,6 +1,6 @@
 # For run
 
-¡Hello Word! If you want to run the project, please read the next steps
+¡Hello World! If you want to run the project, please read the next steps
 
 ```¡IMPORTANT!: The next comands and steps, write it in your terminal```
 
