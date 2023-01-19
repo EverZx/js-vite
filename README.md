@@ -8,5 +8,5 @@
 
 2. Run the devServer whit ```npm run dev```
 
-3. Open the project in your localhost
+3. Open the project in your localhost it will apear like ```http://localhost:3000```
 
